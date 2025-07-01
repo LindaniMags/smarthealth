@@ -17,8 +17,6 @@ export default function HomePage() {
 
   const featuredArticles = filteredArticles.slice(0, 5); // Get first 5 articles for carousel
   const otherArticles = filteredArticles.slice(5, 11); // Adjust to start from 6th article
-  const moreArticles = filteredArticles.slice(11, 16); // Next 5 articles for trending section
-  const additionalArticle = filteredArticles.slice(16, 17); // One more article for trending section
 
   // Get trending categories (categories with most articles)
   const trendingCategories = categories

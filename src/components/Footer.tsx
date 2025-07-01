@@ -193,14 +193,14 @@ export default function Footer() {
             <div className="flex items-center space-x-1 text-gray-400 text-sm mt-4 md:mt-0">
               <span>Made with</span>
               <Heart className="w-4 h-4 text-red-500 fill-current" />
-              <span>using</span>
+              <span>by</span>
               <a
                 href="https://nextjs.org"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300 transition-colors flex items-center space-x-1"
               >
-                <span>Next.js</span>
+                <span>LBM</span>
                 <ExternalLink className="w-3 h-3" />
               </a>
             </div>

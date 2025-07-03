@@ -179,7 +179,9 @@ Environmental groups have praised the accord as "the most ambitious climate agre
 
 The agreement will officially take effect in January 2026, giving countries time to develop detailed implementation plans and secure necessary legislative approvals.`,
     imageUrl:
-      "https://images.unsplash.com/photo-1569163139394-de4e4f43e4e3?w=800&h=400&fit=crop",
+      // "https://images.unsplash.com/photo-1569163139394-de4e4f43e4e3?w=800&h=400&fit=crop",
+      "/image1.jpg",
+
     publishedAt: new Date("2025-01-14T14:30:00Z"),
     author: "Marcus Thompson",
     source: mockSources[1],
@@ -397,8 +399,7 @@ With over 55 million people worldwide living with dementia, this breakthrough co
 - Inspire new research in regenerative medicine
 
 The treatment is expected to be available to patients within 12-18 months, pending regulatory approval.`,
-    imageUrl:
-      "https://images.unsplash.com/photo-1559757175-4d6c0ce0f80e?w=800&h=400&fit=crop",
+    imageUrl: "/image2.jpg",
     publishedAt: new Date("2025-01-12T09:30:00Z"),
     author: "Dr. Emily Chen",
     source: mockSources[5],
@@ -476,8 +477,7 @@ The agreement sets precedents that may influence:
 - International entertainment labor standards
 
 Production is expected to fully resume within two weeks, with the first new content reaching audiences in early 2026.`,
-    imageUrl:
-      "https://images.unsplash.com/photo-1489599904182-23b1dc04297f?w=800&h=400&fit=crop",
+    imageUrl: "/image3.jpg",
     publishedAt: new Date("2025-01-11T18:45:00Z"),
     author: "Rachel Green",
     source: mockSources[0],
